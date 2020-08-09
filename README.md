@@ -1,5 +1,8 @@
 ## Berechnung des Tricornsfraktals: 
 
+
+![alt text](https://github.com/[NicolasArteaga]/[Fraktale]/blob/[branch]/image.jpg?raw=true)
+
 In dem Implementierungsordner gibt es einen Makefile, der durch ausführen des Befehls `make` einen
 Build unserer Implementierung baut.
 Danach kann man durch
