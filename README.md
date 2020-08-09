@@ -1,8 +1,6 @@
 ## Berechnung des Tricornsfraktals: 
 
 
-![alt text](https://github.com/[NicolasArteaga]/[Fraktale]/ExampleResult.jpg?raw=true)
-
 ![alt text](https://github.com/NicolasArteaga/Fraktale/blob/master/ExampleResult.jpg)
 
 In dem Implementierungsordner gibt es einen Makefile, der durch ausführen des Befehls `make` einen
